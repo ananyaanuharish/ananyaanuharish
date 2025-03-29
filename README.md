@@ -3,7 +3,7 @@
 ### 🚀 A Passionate Frontend & AI-ML Developer from India  
 
 - 🌱 I’m currently learning **Node.js & Backend Development**   
-- 💻 Strong skills in **JavaScript, Python, React, CSS, SQL**  
+- 💻 Strong skills in **HTML, CSS, Tailwind CSS, JavaScript, Python, React, SQL**  
 - 🎨 Passionate about **Frontend Development & UI/UX Design**    
 - 📫 Reach out to me on **[LinkedIn](https://www.linkedin.com/in/ananya-a-h)**  
 
