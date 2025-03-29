@@ -29,6 +29,12 @@
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-1E4D2B?style=flat-square&logo=ai&logoColor=white">
+<img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+
 </p>  
 
 ---
