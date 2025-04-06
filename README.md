@@ -6,7 +6,7 @@
 
 - 💻 Skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Python, Node.js, Express.js, MongoDB, Git, GitHub
 
-- 🛠️ Tools I use: Postman, Thunder Client, VS Code, MongoDB Compass, Netlify, Render
+- 🛠️ Tools I use: Postman, Thunder Client, VS Code, MongoDB Compass, MongoDB Atlas, Netlify, Render
 
 - 🎨 Passionate about crafting seamless UI/UX and building scalable full stack applications  
 
