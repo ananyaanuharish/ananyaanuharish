@@ -2,13 +2,13 @@
 
 ### 🚀 A Passionate Frontend & Backend Developer with a love for AI-ML, from India
 
-🌱 Currently exploring TypeScript to level up my developer toolkit
+- 🌱 Currently exploring TypeScript to level up my developer toolkit
 
-💻 Skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Python, Node.js, Express.js, MongoDB, Git, GitHub
+- 💻 Skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Python, Node.js, Express.js, MongoDB, Git, GitHub
 
-🛠️ Tools I use: Postman, Thunder Client, VS Code, MongoDB Compass, Netlify, Render
+- 🛠️ Tools I use: Postman, Thunder Client, VS Code, MongoDB Compass, Netlify, Render
 
-🎨 Passionate about crafting seamless UI/UX and building scalable full stack applications  
+- 🎨 Passionate about crafting seamless UI/UX and building scalable full stack applications  
 
 - 📫 Reach out to me on **[LinkedIn](https://www.linkedin.com/in/ananya-a-h)**  
 
