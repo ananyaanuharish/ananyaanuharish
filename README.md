@@ -4,7 +4,7 @@
 
 - 🌱 Currently exploring TypeScript to level up my developer toolkit
 
-- 💻 Skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Python, Node.js, Express.js, MongoDB, Git, GitHub
+- 💻 Skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Vite, JSX, Python, Node.js, Express.js, MongoDB, Git, GitHub
 
 - 🛠️ Tools I use: Postman, Thunder Client, VS Code, MongoDB Compass, MongoDB Atlas, Netlify, Render
 
