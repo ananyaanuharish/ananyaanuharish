@@ -47,14 +47,31 @@
 </p>  
 
 ---
+---
+
+## 🚀 Explore My Project
+
+🎯 **Check out my latest full-stack project – a powerful and vibrant Task Manager App!**  
+Manage tasks, set due dates, and stay organized with a beautiful UI and smooth interactions.
+
+🔗 **Live Demo:** [https://taskmanagerapp-frontend.onrender.com](https://taskmanagerapp-frontend.onrender.com)
+
+<p align="center">
+  <a href="https://taskmanagerapp-frontend.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live_App-Click_to_Visit-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white">
+  </a>
+</p>
 
 ---
+
+---
+
 
 ## 🌎 **Connect with Me**  
 📧 **Email:** ananyaharish00@gmail.com  
 💼 **[LinkedIn](https://www.linkedin.com/in/ananya-a-h)**  
 📸 **[Instagram](https://www.instagram.com/ananyaaharishh/)**  
-🌐 **[Visit My Task Manager App](https://taskmanagerapp-frontend.onrender.com)**  
+
 
 ---
 
@@ -65,8 +82,5 @@
   </a>
   <a href="https://www.instagram.com/ananyaaharishh/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://taskmanagerapp-frontend.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Live%20App-38B2AC?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
