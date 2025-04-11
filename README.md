@@ -54,6 +54,7 @@
 📧 **Email:** ananyaharish00@gmail.com  
 💼 **[LinkedIn](https://www.linkedin.com/in/ananya-a-h)**  
 📸 **[Instagram](https://www.instagram.com/ananyaaharishh/)**  
+🌐 **[Visit My Task Manager App](https://taskmanagerapp-frontend.onrender.com)**  
 
 ---
 
@@ -64,5 +65,8 @@
   </a>
   <a href="https://www.instagram.com/ananyaaharishh/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://taskmanagerapp-frontend.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Live%20App-38B2AC?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
