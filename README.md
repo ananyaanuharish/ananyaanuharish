@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  [![npm](https://img.shields.io/npm/v/YOUR_PACKAGE_NAME)](https://www.npmjs.com/package/YOUR_PACKAGE_NAME)
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white">
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
