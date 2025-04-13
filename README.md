@@ -1,4 +1,9 @@
 # Hi there, I'm Ananya! 👋  
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="270" alt="developer gif" />
+</p>
+
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast 🚀</h3>
 
 ### 🚀 A Passionate Frontend & Backend Developer with a love for AI-ML, from India
 
