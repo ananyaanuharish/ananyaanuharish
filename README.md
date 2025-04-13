@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white">
   <img src="https://img.shields.io/badge/-REST%20API-25A162?style=flat-square&logo=fastapi&logoColor=white">
 </p>
----
+
 🧰 Backend
 <p align="left">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
 </p>
----
+
 🛠️ Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
 </p>
----
+
 🧠 Optional: Programming Languages / Others
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
