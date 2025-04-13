@@ -1,9 +1,10 @@
 # Hi there, I'm Ananya! 👋  
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="270" alt="developer gif" />
+  <img src="https://cdn.dribbble.com/users/1615584/screenshots/3658572/girl-coding.gif" height="270" alt="girl developer gif" />
 </p>
 
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast 🚀</h3>
+
 
 ### 🚀 A Passionate Frontend & Backend Developer with a love for AI-ML, from India
 
@@ -51,7 +52,6 @@
   <img src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white">
   <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
 </p>
 ---
