@@ -1,7 +1,7 @@
 # Hi there, I'm Ananya! 👋  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="270" alt="cartoon girl programming gif" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="270" alt="cartoon girl programming" />
 </p>
 
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast 🚀</h3>
