@@ -1,6 +1,7 @@
 # Hi there, I'm Ananya! 👋  
+
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1615584/screenshots/3658572/girl-coding.gif" height="270" alt="girl developer gif" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" height="270" alt="girl developer gif" />
 </p>
 
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast 🚀</h3>
@@ -13,7 +14,9 @@
 - 💻 Skilled in HTML, CSS, Tailwind CSS, JavaScript, React, Vite, JSX, Python, Node.js, Express.js, MongoDB, Git, GitHub
 
 - 🛠️ Tools I use: Postman, Thunder Client, VS Code, MongoDB Compass, MongoDB Atlas, Netlify, Render
-
+  
+- 👯 I’m looking to work as Full Stack Web Developer
+  
 - 🎨 Passionate about crafting seamless UI/UX and building scalable full stack applications  
 
 - 📫 Reach out to me on **[LinkedIn](https://www.linkedin.com/in/ananya-a-h)**  
